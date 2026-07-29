@@ -1,16 +1,36 @@
-## Hi there 👋
+# Iren 
 
-<!--
-**irenmun/irenmun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 💻 Software developer focused on reliable and maintainable solutions
+- 🚁 Interested in UAV (drone) technologies and autonomous systems
+- ⚙️ Passionate about automation and engineering software
+- 🌐 Open-source enthusiast
+- 📈 Always learning new technologies and development practices
+
+## Technologies & Skills
+
+### Languages
+- Go
+- Python
+- SQL
+- Bash
+
+### Development
+- Backend development
+- REST APIs
+- CLI applications
+- Git & GitHub
+- Linux
+- Docker
+
+### Interests
+- 🚁 UAV technologies and drone software
+- 🤖 Autonomous and embedded systems
+- ₿ Blockchain, cryptocurrencies & Web3
+- ☁️ Cloud infrastructure
+- 📊 Data processing and automation
+- 🔧 Software architecture and performance optimization
+
+
